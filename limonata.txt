@@ -2,5 +2,5 @@ limonata tarifi
 
 1.limon
 2.su
-seker
+3.seker
 4. nane
